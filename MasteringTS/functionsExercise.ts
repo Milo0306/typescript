@@ -78,4 +78,4 @@ function zagadka(x: number, y: number) {
     Zostało Ci ${y / 2}`
 }
 
-console.log(zagadka(100, 210))
+console.log(zagadka(121, 210))

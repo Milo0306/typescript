@@ -58,4 +58,4 @@ console.log(isLeapYear(2013));
 function zagadka(x, y) {
     return "Pomy\u015Bl sobie jak\u0105\u015B liczb\u0119 i podaj j\u0105 tu: ".concat(x, "\n    Mama Ci da\u0142a tyle samo ").concat(x, "\n    Ja Ci daj\u0119 ").concat(y, "\n    Po\u0142ow\u0119 rzu\u0107 w b\u0142oto ").concat((x + x + y) / 2, "\n    Oddaj mamie d\u0142ug ").concat(x * 2 / 2, "\n    Zosta\u0142o Ci ").concat(y / 2);
 }
-console.log(zagadka(100, 210));
+console.log(zagadka(121, 210));
